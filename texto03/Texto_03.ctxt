@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Texto_03
+comment1.params=
+comment1.target=java.lang.String\ ex3_1()
+comment10.params=data1\ data2
+comment10.target=java.lang.String\ ex3_10(java.lang.String,\ java.lang.String)
+comment11.params=data
+comment11.target=java.lang.String[]\ ex3_11(java.lang.String[])
+comment12.params=data
+comment12.target=java.lang.String\ ex3_12(java.lang.String)
+comment2.params=data
+comment2.target=java.lang.String\ ex3_2(java.lang.String)
+comment3.params=dir
+comment3.target=java.lang.String[]\ ex3_3(java.lang.String)
+comment4.params=dir
+comment4.target=java.lang.String[]\ ex3_4(java.lang.String)
+comment5.params=dir\ arquivo
+comment5.target=java.lang.String[]\ ex3_5(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ ex3_6()
+comment7.params=arq
+comment7.target=void\ ex3_7(java.lang.String)
+comment8.params=arq
+comment8.target=void\ ex3_8(java.lang.String)
+comment9.params=
+comment9.target=void\ ex3_9()
+numComments=13
