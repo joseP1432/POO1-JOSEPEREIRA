@@ -4,6 +4,9 @@ public class teste
     public Banco montarTudo(){
         Banco bb = criarBanco();
         bb.setAgencia(criarAgencia(2));
+        for(Agencia ag: bb.getAgencia()){
+            ag.setConta(criarConta(5));
+        }
         return bb;
     }
     
@@ -26,7 +29,6 @@ public class teste
         for (int i = 0; i < num; i++){
             Agencia ag = new Agencia();
             ag.setId(i);
-            ag.setConta(criarConta(2));
             agen.add(ag);
         }
         return agen;
